@@ -1,6 +1,6 @@
 package es1;
 import java.util.Scanner;
-public class main1 {
+public class Main1 {
     public static boolean strEvenOdd(String str) {
         int n = str.length();
         return n % 2 == 0;
